@@ -13,7 +13,7 @@ This entire project is done on Amazon sagemaker and uses some heavy GPU instance
 
 1. Clone the repository.
 	```
-		git clone https://github.com/trendysloth/udacity_ml_project_sentiment_analysis.git
+		git clone https://github.com/trendysloth/sentiment-analysis.git
 	```
 2. Open the `SageMaker Project.ipynb` file.
 	```
